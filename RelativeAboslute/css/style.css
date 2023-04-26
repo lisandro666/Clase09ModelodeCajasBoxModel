@@ -1,0 +1,18 @@
+*{
+    background-color: aqua;
+    color:white;
+}
+
+
+.primero {
+ position: relative;
+ left:20px; /* desde la derecha se va moviendo */
+ top: 30px;
+}
+
+.segundo {
+ position: absolute;
+ right: 30px;
+ bottom: 20px;
+}
+/* pos relativa y abosulta body*/

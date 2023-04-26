@@ -1,0 +1,13 @@
+.amarillo {
+background-color: blueviolet;
+height: 150px;
+width: 150px;
+position: relative;
+top: 20px;
+}
+
+.rojo {
+    height: 150px;
+    width: 150px;
+background-color: aqua;
+}
